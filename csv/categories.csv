@@ -1,0 +1,5 @@
+tk_category_dashname,tk_category_name,tk_category_rules
+100,100%,"Eén lunchlezingbroodje opeten. Drinken tussendoor is niet toegestaan. De tijd stopt wanneer je de laatste hap doorslikt, en je mond dus leeg is."
+any,any%,Eén lunchlezingbroodje opeten. Drinken tussendoor is niet toegestaan. De tijd stopt wanneer de laatste hap je mond ingaat.
+brak,brak%,"Onguur brak zo'n broodje naar achter schuiven. Je moet dus een kater hebben, verder gelden de standaardregels (100%)."
+TAS,TAS,"Eén lunchlezingbroodje opeten. Drinken tussendoor en andere hulpmiddelen zijn toegestaan. De tijd stopt wanneer je de laatste hap doorslikt, en je mond dus leeg is."
