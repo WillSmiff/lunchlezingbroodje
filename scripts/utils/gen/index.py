@@ -50,11 +50,11 @@ def generate(templatedir, destinationdir, templateFilename):
 
     # lk_costs_made handler
     costs_made = sum(
-        3.71
+        3.60
         for run in runs.values()
     )
     util_file.replaceTextInFile(
         f"{destinationdir}/index.html",
         "lk_costs_made",
-        f"Euro's verspild: <strong>€{costs_made}</strong>",
+        f"Euro's verspild: <strong>€{costs_made:.2f}</strong>",
     ) 
